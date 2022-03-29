@@ -4,12 +4,11 @@ I'm an 18-year-old Full Stack Developer (MERN) based in Gonda☀️. I describe 
 
 I'm a designer & developer with a passion for web design. I enjoy developing simple, clean, and slick websites that provide real value to the end-user. Thousands of clients have procured exceptional results while working with me. Delivering work within time and budget which meets clients’ requirements is our motto.
 
-[![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://twitter.com/durgeshsoni08)
-![2](https://user-images.githubusercontent.com/81063456/160662358-6cd27292-9f0d-4657-8cc6-535243925534.png)
-![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)
-![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)
-![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)
-![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)
+[![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
+[![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
+[![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08)
+[![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/durgeshsoni08/)
+[![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:hello@durgeshsoni.com)
 
 
 
@@ -98,9 +97,11 @@ I'm a designer & developer with a passion for web design. I enjoy developing sim
        </tr>
     </tbody>  
 
-      
 </table>
 
 
+[![coffee](https://user-images.githubusercontent.com/81063456/160665169-7d4ae351-ed39-4216-a071-d95232e8d88a.svg)](https://www.buymeacoffee.com/durgeshsoni)
 
-![Durgesh Soni github](https://user-images.githubusercontent.com/81063456/160449328-3dab799f-1ecd-4f71-a5bf-1ea87f205794.png)
+
+<h1 align="center"> Thank You ❤</h1>
+
