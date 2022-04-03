@@ -95,6 +95,12 @@ I'm a designer & developer with a passion for web design. I enjoy developing sim
             <td>Django</td>
             <td><a href="https://github.com/durgeshsoni/UrlShortner"  target="blank">Github</a></td>
        </tr>
+          <tr>
+            <td>12.</td>
+            <td>Upgrad Clone</td>
+            <td>HTML,CSS & JS</td>
+            <td><a href="https://stupendous-alfajores-e52b1e.netlify.app"  target="blank">https://stupendous-alfajores-e52b1e.netlify.app/</a></td>
+       </tr>
     </tbody>  
 
 </table>
