@@ -2,7 +2,7 @@
 
 I'm an 18-year-old Full Stack Developer (MERN) based in Gonda☀️. I describe myself as a passionate developer who loves coding, open-source, and the web platform❤️.
 
-I'm a designer & developer with a passion for web design. I enjoy developing simple, clean, and slick websites that provide real value to the end-user. Thousands of clients have procured exceptional results while working with me. Delivering work within time and budget which meets clients’ requirements is our motto.
+I'm a designer & developer with a passion for web design. I enjoy developing simple, clean, and slick websites that provide real value to the end-user. Many clients have procured exceptional results while working with me. Delivering work within time and budget which meets clients’ requirements is our motto.
 
 [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
