@@ -49,7 +49,7 @@ I'm a designer & developer with a passion for web design. I enjoy developing sim
         </tr> 
          <tr>
             <td>4.</td>
-            <td>Google Clone</td>
+            <td>Masai School Clone</td>
             <td>HTML,CSS & JS</td>
             <td><a href="https://effortless-tartufo-137969.netlify.app/"  target="_blank">https://effortless-tartufo-137969.netlify.app/</a></td>
         </tr>
