@@ -12,11 +12,13 @@ I am a Java Backend developer. I want a position in an organization where there 
 
 
 
-![durgeshsoni(1)](https://user-images.githubusercontent.com/81063456/160451605-6f30038e-683e-4e95-81d9-1f28c3a4d65a.png)
+<!-- ![durgeshsoni(1)](https://user-images.githubusercontent.com/81063456/160451605-6f30038e-683e-4e95-81d9-1f28c3a4d65a.png) -->
+![Github banner](https://user-images.githubusercontent.com/81063456/169705234-2c4d4e60-25de-493d-a5a0-de05512e4633.png)
 
 <h1 align="center"> Technology / Stack</h1>
 
-![Languages   Tools](https://user-images.githubusercontent.com/81063456/160660787-f18d9a0d-cb92-4852-ac43-3247e5fd2a11.png)
+<!-- ![Languages   Tools](https://user-images.githubusercontent.com/81063456/160660787-f18d9a0d-cb92-4852-ac43-3247e5fd2a11.png) -->
+![Teck Stack](https://user-images.githubusercontent.com/81063456/169705256-ad8945ba-0b55-4c23-aad9-822dd97e3d4b.png)
 
 <h2 align="center"> My Project </h2>
 <table align="center" border="2">
