@@ -53,7 +53,7 @@ I am a Java Backend developer. I want a position in an organization where there 
             <td>4.</td>
             <td>Masai School Clone</td>
             <td>HTML,CSS & JS</td>
-            <td><a href="https://effortless-tartufo-137969.netlify.app/"  target="_blank">https://effortless-tartufo-137969.netlify.app/</a></td>
+            <td><a href="https://heuristic-galileo-2958c0.netlify.app"  target="_blank">https://heuristic-galileo-2958c0.netlify.app</a></td>
         </tr>
          <tr>
             <td>5.</td>
