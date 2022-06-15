@@ -1,8 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
 
 I'm an 18-year-old Java Backend Developer. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
-An aspiring Java Backend Developer with 1000+ hours of coding experience in Javascript, Java, and Python. A dedicated team player enthusiastic to be part of a reputed company.
-
+An aspiring Java Backend Developer with 1000+ hours of coding experience in Java, and JavaScript. I am a highly passionate Backend developer who loves, creating APIs, and working with databases.
 [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
 [![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08)
