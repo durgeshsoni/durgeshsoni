@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
 
-I'm an 18-year-old Java Backend Developer. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
+I'm an Java Backend Developer at Nobroker. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
 An aspiring Java Backend Developer with 1000+ hours of coding experience in Java, and JavaScript. I am a highly passionate Backend developer who loves, creating APIs, and working with databases.
 
 [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
