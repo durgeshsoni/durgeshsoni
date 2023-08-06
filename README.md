@@ -1,7 +1,12 @@
 <h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
 
-I'm an Java Backend Developer at Nobroker. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
-An aspiring Java Backend Developer with 1000+ hours of coding experience in Java, and JavaScript. I am a highly passionate Backend developer who loves, creating APIs, and working with databases.
+Experienced Java backend developer with 1.5 years of hands-on experience at NoBroker. Proficient in
+developing robust and scalable backend solutions using Java and Spring Boot. A dedicated professional who
+has successfully contributed to key projects in the domain of notifications, deep linking, and multi-tenancy.
+During my bachelor's degree, I honed my programming skills and gained proficiency in JavaScript,
+undertaking numerous projects that showcase my ability to deliver innovative solutions. I further expanded
+my skill set by completing a comprehensive 6-month bootcamp focused on Java Spring Boot, solidifying my
+mastery of backend development.
 
 [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
