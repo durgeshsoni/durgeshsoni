@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
 
-Experienced Java backend developer with 1.5 years of hands-on experience at NoBroker. Proficient in
+Experienced Java backend developer with 2 years of hands-on experience at NoBroker. Proficient in
 developing robust and scalable backend solutions using Java and Spring Boot. A dedicated professional who
 has successfully contributed to key projects in the domain of notifications, deep linking, and multi-tenancy.
 During my bachelor's degree, I honed my programming skills and gained proficiency in JavaScript,
