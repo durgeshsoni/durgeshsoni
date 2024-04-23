@@ -1,12 +1,8 @@
 <h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
 
-Experienced Java backend developer with 2 years of hands-on experience at NoBroker. Proficient in
-developing robust and scalable backend solutions using Java and Spring Boot. A dedicated professional who
-has successfully contributed to key projects in the domain of notifications, deep linking, and multi-tenancy.
-During my bachelor's degree, I honed my programming skills and gained proficiency in JavaScript,
-undertaking numerous projects that showcase my ability to deliver innovative solutions. I further expanded
-my skill set by completing a comprehensive 6-month bootcamp focused on Java Spring Boot, solidifying my
-mastery of backend development.
+I am Durgesh Soni, a skilled Software Development Engineer specializing in backend engineering with 2 years of industry experience. I am proficient in Java, Spring Boot, Microservices architecture, MongoDB, Kafka, Spring WebFlux, MySQL, and Elasticsearch.
+
+My software development journey began with a rigorous 6-month bootcamp focused on Java backend development, where I honed my programming skills and gained practical experience in building efficient and reliable backend systems. Since then, I have actively contributed to designing, developing, and optimizing backend services for diverse projects, ensuring high performance and seamless integration with frontend applications.
 
 [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
