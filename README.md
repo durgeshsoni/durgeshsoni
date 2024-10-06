@@ -1,8 +1,6 @@
 <h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
 
-I am Durgesh Soni, a skilled Software Development Engineer specializing in backend engineering with 2 years of industry experience. I am proficient in Java, Spring Boot, Microservices architecture, MongoDB, Kafka, Spring WebFlux, MySQL, and Elasticsearch.
-
-My software development journey began with a rigorous 6-month bootcamp focused on Java backend development, where I honed my programming skills and gained practical experience in building efficient and reliable backend systems. Since then, I have actively contributed to designing, developing, and optimizing backend services for diverse projects, ensuring high performance and seamless integration with frontend applications.
+I am a Software Engineer with over 4 years of experience specializing in backend development, primarily in Java. I am currently employed at NoBroker, where I contribute to building scalable backend solutions. My professional journey began as an SDE1 (Full Stack Developer) at Almahira during my graduation, where I honed my foundational skills in both frontend and backend technologies. This early phase of my career was pivotal in shaping my technical expertise, which I have since deepened and refined in backend development.
 
 [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
